@@ -1,0 +1,2 @@
+# thematic
+Thematic - Core Library
