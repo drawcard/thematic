@@ -7,3 +7,6 @@
 [submodule "lib/js/jquery"]
 	path = lib/js/jquery
 	url = https://github.com/components/jquery
+[submodule "lib/css/turretcss"]
+	path = lib/css/turretcss
+	url = https://github.com/turretcss/turretcss.git
