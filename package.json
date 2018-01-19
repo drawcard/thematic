@@ -1,0 +1,22 @@
+{
+  "name": "thematic-core",
+  "version": "1.0.0",
+  "description": "Thematic - Core Library",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drawcard/thematic.git"
+  },
+  "author": "Drawcard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drawcard/thematic/issues"
+  },
+  "homepage": "https://github.com/drawcard/thematic#readme"
+}
