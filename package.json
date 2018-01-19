@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/drawcard/thematic/issues"
   },
-  "homepage": "https://github.com/drawcard/thematic#readme"
+  "homepage": "https://github.com/drawcard/thematic#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "flexboxgrid": "^6.3.1",
+    "tachyons": "git+https://github.com/tachyons-css/tachyons-verbose.git"
+  }
 }
