@@ -24,3 +24,47 @@
     height: 100%;
   }  
 }
+
+/*
+ * Hide / show items based on viewport width
+ * Generated at LOTUS: http://goatslacker.github.io/lotus.css/
+ * */
+@media (min-width:56em) {
+     .hide-lg {
+         display: none
+     }
+     .show-lg {
+         display: block
+     }
+     .show-md,
+     .show-sm {
+         display: none
+     }
+ }
+ 
+ @media (max-width:55em) {
+     .hide-md {
+         display: none
+     }
+     .show-md {
+         display: block
+     }
+     .show-lg,
+     .show-sm {
+         display: none
+     }
+ }
+ 
+ @media (max-width:30em) {
+     .hide-sm {
+         display: none
+     }
+     .hide-md,
+     .show-sm {
+         display: block
+     }
+     .show-lg,
+     .show-md {
+         display: none
+     }
+ }
