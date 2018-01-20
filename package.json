@@ -19,11 +19,12 @@
     "url": "https://github.com/drawcard/thematic/issues"
   },
   "homepage": "https://github.com/drawcard/thematic#readme",
-  "dependencies": {},
+  "dependencies": {
+    "tachyons": "^4.9.1"
+  },
   "devDependencies": {
     "flexboxgrid": "^6.3.1",
     "gutenberg-css": "^0.4.4",
-    "sanitize.css": "^5.0.0",
-    "tachyons": "git+https://github.com/tachyons-css/tachyons-verbose.git"
+    "sanitize.css": "^5.0.0"
   }
 }
