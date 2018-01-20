@@ -53,6 +53,7 @@
  select {
      height: 2.25em;
      width: 100%;
+     border: .05em solid #333;
  }
  
  input[type=checkbox],
@@ -71,7 +72,7 @@
  
  .form-addon {
      background-color: #fff;
-     border-bottom: .1em solid #000;
+     border-bottom: .1em solid #333;
      padding: .5em 1em;
  }
  
