@@ -20,11 +20,9 @@
   },
   "homepage": "https://github.com/drawcard/thematic#readme",
   "dependencies": {
-    "tachyons": "^4.9.1",
-    "uikit": "^3.0.0-beta.38"
+    "uikit": "^3.0.0-beta.40"
   },
   "devDependencies": {
-    "flexboxgrid": "^6.3.1",
     "formbase": "^6.0.3",
     "gutenberg-css": "^0.4.4",
     "sanitize.css": "^5.0.0"
