@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/drawcard/thematic#readme",
   "dependencies": {
+    "@clr/icons": "^0.11.4",
+    "@webcomponents/custom-elements": "^1.0.0",
     "uikit": "^3.0.0-beta.40"
   },
   "devDependencies": {
