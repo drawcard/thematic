@@ -1,6 +1,13 @@
 /**
  * Add aspect ratio settings to items
  * Examples: http://cssmojo.com/aspect-ratio-using-custom-properties-and-calc/
+ * 
+ * Usage:
+ * <div style="--aspect-ratio:16/9">
+ *      <iframe src="video.mp4" frameborder="0" allowfullscreen></iframe>
+ * </div>
+ * 
+ * Does not work in IE11
 */
 [style*="--aspect-ratio"] > :first-child {
   width: 100%;
