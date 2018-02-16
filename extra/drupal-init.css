@@ -1,0 +1,8 @@
+/**
+ * Initial classes for Drupal specific usage 
+ */
+
+ .logged-in .tabs {
+     /* Add a bit of space around the editor tabs */
+     margin: 20px 0px;
+ }
