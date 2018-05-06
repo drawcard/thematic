@@ -20,12 +20,12 @@
   },
   "homepage": "https://github.com/drawcard/thematic#readme",
   "dependencies": {
-    "@clr/icons": "^0.11.4",
-    "@webcomponents/custom-elements": "^1.0.0",
-    "uikit": "^3.0.0-beta.40"
+    "@clr/icons": "^0.11.16",
+    "@webcomponents/custom-elements": "^1.1.0",
+    "uikit": "^3.0.0-beta.42"
   },
   "devDependencies": {
-    "formbase": "^6.0.3",
+    "formbase": "^6.0.4",
     "gutenberg-css": "^0.4.4",
     "sanitize.css": "^5.0.0"
   }
